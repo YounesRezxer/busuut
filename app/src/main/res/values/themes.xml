@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <style name="Theme.Busuut" parent="Theme.AppCompat.Light.DarkActionBar">
+        <!-- تنظیمات تم شما -->
+        <item name="colorPrimaryDark">@color/yello2</item>colorPrimaryDark
+        <item name="colorPrimary">@color/yello</item>
+        <item name="colorAccent">@color/gray2</item>
+    </style>
+
+</resources>
